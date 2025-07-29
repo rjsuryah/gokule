@@ -1,2 +1,5 @@
 reset command is working 
 
+
+git reset --hard (commit id)
+
